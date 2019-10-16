@@ -70,6 +70,7 @@ Para efetuar um Pull Request utilize a branch [`develop`](https://github.com/Eli
 <td align="center"><a href="https://github.com/TommyAlmeida"><img src="https://github.com/TommyAlmeida.png?size=100" alt="TommyAlmeida" align="center"/><br/><sub><b>Tomas Almeida</b></sub></a></td>
 <td align="center"><a href="https://github.com/Heroslender"><img src="https://github.com/Heroslender.png?size=100" alt="Heroslender" align="center"/><br/><sub><b>Heroslender</b></sub></a></td>
 <td align="center"><a href="https://github.com/CassioM2"><img src="https://github.com/CassioM2.png?size=100" alt="CassioM2" align="center"/><br/><sub><b>Cassio M.</b></sub></a></td>
+<td align="center"><a href="https://github.com/htyns123"><img src="https://github.com/htyns123.png?size=100" alt="htyns123" align="center"/><br/><sub><b>htyns123</b></sub></a></td>
 <td align="center"><a href="https://github.com/LuanCordista"><img src="https://github.com/LuanCordista.png?size=100" alt="LuanCordista" align="center"/><br/><sub><b>ImLuan_</b></sub></a></td>
 </tr>
 </table>
