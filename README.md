@@ -73,6 +73,9 @@ Para efetuar um Pull Request utilize a branch [`develop`](https://github.com/Eli
 <td align="center"><a href="https://github.com/htyns123"><img src="https://github.com/htyns123.png?size=100" alt="htyns123" align="center"/><br/><sub><b>htyns123</b></sub></a></td>
 <td align="center"><a href="https://github.com/LuanCordista"><img src="https://github.com/LuanCordista.png?size=100" alt="LuanCordista" align="center"/><br/><sub><b>ImLuan_</b></sub></a></td>
 </tr>
+<tr>
+<td align="center"><a href="https://github.com/RafaelFaar"><img src="https://github.com/RafaelFaar.png?size=100" alt="Rafael Farias" align="center"/><br/><sub><b>Rafael Farias</b></sub></a></td>
+</tr>
 </table>
 
 ## Ajuda
